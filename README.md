@@ -1,6 +1,6 @@
 # Bem vindo ao meu Github ☕
 
-Boas vindas ao meu perfil do GitHub! Sou um analista de cibersegurança apaixonado por proteger sistemas e redes contra ameaças e vulnerabilidades. Com uma sólida experiência em várias áreas de segurança e tecnologia, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para a segurança de empresas em individuos no mundo digital.
+Boas vindas ao meu perfil do GitHub! Sou um analista de cibersegurança e sysadmin apaixonado por proteger sistemas e redes contra ameaças e vulnerabilidades. Com uma sólida experiência em várias áreas de segurança e tecnologia, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para a segurança de empresas em individuos no mundo digital.
 
 ## 📚 Principais Qualificações
 
@@ -27,14 +27,6 @@ Boas vindas ao meu perfil do GitHub! Sou um analista de cibersegurança apaixona
 ### 🐳 **Docker**
 - Implementação e gerenciamento de containers Docker para ambientes de desenvolvimento e produção.
 - Experiência com Docker Compose e orquestração de containers.
-
-## 💼 Projetos
-
-Aqui estão alguns dos projetos que desenvolvi:
-
-- **[Projeto de Segurança em Rede](link-do-projeto)**: Implementação de regras de firewall para proteger uma rede corporativa e análise de tráfego.
-- **[Automação de Tarefas com Python](link-do-projeto)**: Desenvolvimento de scripts para automação de tarefas de segurança e análise de logs.
-- **[Configuração de Ambiente Docker](link-do-projeto)**: Configuração de containers Docker para ambientes de desenvolvimento seguro.
 
 ## 📈 Habilidades Adicionais
 
