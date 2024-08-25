@@ -1,6 +1,6 @@
 # Bem vindo ao meu Github ☕
 
-Boas vindas ao meu perfil do GitHub! Sou um analista de cibersegurança e sysadmin apaixonado por proteger sistemas e redes contra ameaças e vulnerabilidades. Com uma sólida experiência em várias áreas de segurança e tecnologia, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para a segurança de empresas em individuos no mundo digital.
+Boas vindas ao meu perfil do GitHub! Sou um analista Administrador de sistemas apaixonado por Cybersegurança. Com uma sólida experiência em várias áreas de segurança e tecnologia, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para a ifraestrutura e segurança de empresas em individuos no mundo digital.
 
 ## 📚 Principais Qualificações
 
